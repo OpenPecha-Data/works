@@ -1,0 +1,21 @@
+id: W00000000
+bdrc-work-id: WA0RT3216
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
+alternative-titles:
+  - བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
+  - སྤྱོད་འཇུག
+  - སྤྱོད་འཇུགས།
+author:
+isRoot: true
+language: http://purl.bdrc.io/resource/LangBo
+type-defination: http://purl.bdrc.io/ontology/core/Work
+wikidata-id:
+instances:
+  P006865:
+    source_id: bdr:W21971
+    initial_creation_type: ocr
+    title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
+    author:
+    organization: https://bdrc.io
+    created_date: 27/03/2020
+    updated_date: 21/06/2021
