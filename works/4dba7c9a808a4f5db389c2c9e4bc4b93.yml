@@ -8,21 +8,28 @@ type-definition:
 language: http://purl.bdrc.io/resource/LangBo
 wiki-data-id:
 instances:
-  - Derge: 
-      bdrc-instance-id: W2KG5015
-      D-id: D3871
-      google-ocr: P000800
-      loc: DF8F32338
-      relevance: 0
-  - Peking: 
-      bdrc-instance-id: W23703
-      Q-id: Q5272
-      google-ocr: I647D7CBC
-      loc: D0A20E299
-      relevance: 0
-  - Narthang:
-      bdrc-instance-id: W1KG13126
-      N-id: N4061
-      google-ocr: IF6EAA761
-      loc: D9755B799
-      relevance: 0
+  - pecha_id: DF8F32338
+    soucre_pecha: P000800
+    bdrc-instance-id: W2KG5015
+    text_id: D3871
+    initial_creation_type: input
+  - pecha_id: D0A20E299
+    source: I647D7CBC
+    bdrc-instance-id: W23703
+    text_id: Q5272
+    initial_creation_type: input
+  - pecha_id: D9755B799
+    source: IF6EAA761
+    bdrc-instance-id: W1KG13126
+    text_id: N4061
+    initial_creation_type: input
+  - pecha_id: O2FCA4A99
+    source: null
+    bdrc-instance-id: null
+    text_id: null
+    initial_creation_type: input
+  - pecha_id: I0CB5201C
+    source: https://www.youtube.com/playlist?list=PLBURxkrwiRYgyvcek4AMPTDO5kRBfIZnY
+    bdrc-instance-id: null
+    text_id: null
+    initial_creation_type: input
