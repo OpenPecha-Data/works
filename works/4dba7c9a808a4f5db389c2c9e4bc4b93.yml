@@ -8,28 +8,21 @@ type-definition:
 language: http://purl.bdrc.io/resource/LangBo
 wiki-data-id:
 instances:
-  - title: བསྟན་འགྱུར། ༼སྣར་ཐང་།༽  
-    source_id: W2KG5015
-    initial_creation_type: OCR
-    org: bdrc
-    loc: IF6EAA761
-    relevance: 0
-  - title: བསྟན་འགྱུར། ༼སྡེ་དགེ་པར་མ།༽ 
-    source_id: W23703
-    initial_creation_type: OCR
-    org: bdrc
-    loc: P000800
-    relevance: 0
-  - title: བསྟན་འགྱུར། ༼པེ་ཅིང་།༽
-    source_id: W1KG13126
-    initial_creation_type: OCR
-    org: bdrc
-    loc: I647D7CBC
-    relevance: 0
-  - title: བསྟན་འགྱུར། ༼ཅོ་ནེ༽  
-    source_id: W1GS66030
-    initial_creation_type: OCR
-    org: bdrc
-    loc: I1417FAF4
-    relevance: 0
-    
+  - Derge: 
+      bdrc-instance-id: W2KG5015
+      D-id: D3871
+      google-ocr: P000800
+      loc: DF8F32338
+      relevance: 0
+  - Peking: 
+      bdrc-instance-id: W23703
+      Q-id: Q5272
+      google-ocr: I647D7CBC
+      loc: D0A20E299
+      relevance: 0
+  - Narthang:
+      bdrc-instance-id: W1KG13126
+      N-id: N4061
+      google-ocr: IF6EAA761
+      loc: D9755B799
+      relevance: 0
