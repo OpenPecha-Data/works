@@ -9,27 +9,32 @@ language: http://purl.bdrc.io/resource/LangBo
 wiki-data-id:
 instances:
   - pecha_id: DF8F32338
-    soucre_pecha: P000800
-    bdrc-instance-id: W2KG5015
-    text_id: D3871
-    initial_creation_type: input
-  - pecha_id: D0A20E299
-    source: I647D7CBC
     bdrc-instance-id: W23703
-    text_id: Q5272
-    initial_creation_type: input
-  - pecha_id: D9755B799
-    source: IF6EAA761
+    description: Derge Chojuk Diplomatic Edition
+    edition: derge
+    creation_method: proofreading, annotation-transfer
+  - pecha_id: D0A20E299
     bdrc-instance-id: W1KG13126
-    text_id: N4061
-    initial_creation_type: input
+    description: Peking Chojuk Diplomatic Edition
+    edition: Peking
+    creation_method: proofreading, annotation-transfer
+  - pecha_id: D9755B799
+    bdrc-instance-id: W2KG5015
+    description: Narthang Chojuk Diplomatic Edition
+    edition: diplomatic
+    creation_method: proofreading, annotation-transfer
   - pecha_id: O2FCA4A99
-    source: null
-    bdrc-instance-id: null
-    text_id: null
-    initial_creation_type: input
+    bdrc-instance-id:
+    description: Chojuk Dominant Edition
+    edition: dominant
+    creation_method: diff, voting, annotation-transfer
   - pecha_id: I0CB5201C
-    source: https://www.youtube.com/playlist?list=PLBURxkrwiRYgyvcek4AMPTDO5kRBfIZnY
-    bdrc-instance-id: null
-    text_id: null
-    initial_creation_type: input
+    bdrc-instance-id:
+    description: Transcribed Chojuk Initial Edition
+    edition: initial
+    creation_method: web-scraping
+  - pecha_id: I4ACC0C26
+    bdrc-instance-id:
+    description: Born-digital Chojuk
+    edition: initial
+    creation_method: web-scraping
