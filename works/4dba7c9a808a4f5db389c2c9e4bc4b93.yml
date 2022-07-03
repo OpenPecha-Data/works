@@ -38,3 +38,38 @@ instances:
     description: Born-digital Chojuk
     edition: initial
     creation_method: web-scraping
+ - pecha_id: IB7208724
+    bdrc-instance-id:
+    description: Oslo Chojuk
+    edition: initial
+    creation_method: web-scraping   
+- pecha_id: IA0C53445
+    bdrc-instance-id:
+    description: Oslo Chojuk
+    edition: initial
+    creation_method: web-scraping   
+- pecha_id: I144EC99F
+    bdrc-instance-id:
+    description: Oslo Chojuk
+    edition: initial
+    creation_method: web-scraping
+- pecha_id: I39437394
+    bdrc-instance-id:
+    description: Oslo Chojuk
+    edition: initial
+    creation_method: web-scraping     
+- pecha_id: I46B55454
+    bdrc-instance-id:
+    description: Oslo Chojuk
+    edition: initial
+    creation_method: web-scraping
+- pecha_id: I1FB6AAE9
+    bdrc-instance-id:
+    description: Oslo Chojuk
+    edition: initial
+    creation_method: web-scraping     
+- pecha_id: I86E1DFFD
+    bdrc-instance-id:
+    description: Oslo Chojuk
+    edition: initial
+    creation_method: web-scraping 
