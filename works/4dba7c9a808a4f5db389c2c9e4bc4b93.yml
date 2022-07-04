@@ -73,3 +73,8 @@ instances:
     description: Oslo Chojuk
     edition: initial
     creation_method: web-scraping 
+- pecha_id: I1187C7C4
+    bdrc-instance-id:
+    description: Sanskrit Chojuk
+    edition: initial
+    creation_method: web-scraping 
