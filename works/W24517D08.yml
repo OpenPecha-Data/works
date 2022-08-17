@@ -42,41 +42,49 @@ instances:
     bdrc-instance-id:
     description: Oslo Chojuk
     edition: initial
-    creation_method: web-scraping   
+    creation_method: web-scraping  
+    language: sa
 - pecha_id: I2F7C756C
     bdrc-instance-id:
     description: Oslo Chojuk
     edition: initial
+    langauge: mon
     creation_method: web-scraping   
 - pecha_id: I63584C2C
     bdrc-instance-id:
     description: Oslo Chojuk
     edition: initial
     creation_method: web-scraping
+    language: fr
 - pecha_id: I75A88184
     bdrc-instance-id:
     description: Oslo Chojuk
     edition: initial
-    creation_method: web-scraping     
+    creation_method: web-scraping  
+    language: bo
 - pecha_id: IC6DBABE6
     bdrc-instance-id:
     description: Oslo Chojuk
     edition: initial
     creation_method: web-scraping
+    language: bo
 - pecha_id: IF7F1A77F
     bdrc-instance-id:
     description: Oslo Chojuk
     edition: initial
-    creation_method: web-scraping     
+    creation_method: web-scraping   
+    language: en
 - pecha_id: IFF90D274
     bdrc-instance-id:
     description: Oslo Chojuk
     edition: initial
     creation_method: web-scraping 
+    langauge: zh
 - pecha_id: I1187C7C4
     bdrc-instance-id:
     description: Sanskrit Chojuk
     edition: initial
+    langauge: sa
     creation_method: web-scraping 
 - pecha_id: I5A3E81FD
     bdrc-instance-id:
@@ -89,24 +97,41 @@ instances:
       start: 0
       end: 109601
 - pecha_id: IA3E40644
-    bdrc-instance-id:
+    bdrc-instance-id: W1PD95844
     description: Pedurma Tengyur
     edition: initial
+    language: bo
     span:
       base: 48C6
       start: 1373900
       end: 1492240
 - pecha_id: P000002
+    bdrc-instance-id: 
+    description:
+    edition: initial
+    language: bo
     span:
       base: v105
       start: 51
       end: 109576
 - pecha_id: P000246
+    bdrc-instance-id: 
+    Tsadra ID: VVI-017
+    description: The Words of the Peerless Lama:Notes on the Bodhisattvacharyavatara Tsarda
+    edition: initial
+    initial_creation_type: ebook
+    language: bo
     span:
       base: v001
       start: 5359
       end: 726730
 - pecha_id: P000047
+    bdrc-instance-id: 
+    Tsadra ID: LEK-PHI-004
+    description: The Bodhicharyavatara Tsarda
+    edition: initial
+    initial_creation_type: ebook
+    language: bo
     span:
       base: v001
       start: 153
@@ -122,6 +147,10 @@ instances:
       start: 1336330
       end: 1450225
 - pecha_id: 187ed94f85154ea5b1ac374a651e1770
+    bdrc-instance-id: W1PD95844
+    description: Namsel ocred tenjur pedurma
+    edition: initial
+    initial_creation_type: ocr
     span:
       base: v061
       start: 1347886
@@ -136,12 +165,11 @@ instances:
       base: v061
       start: 52
       end: 111072
-- pecha_id: PB3CDCC7F
-    span:
-      base: v105
-      start: 52
-      end: 109653
 - pecha_id: PC445E4EA
+    bdrc-instance-id: 
+    description: buddhism.ru yagpo Tengyur(pedurma)
+    edition: initial
+    initial_creation_type: web scrapping
     span:
       base: v061
       start: 1358381
