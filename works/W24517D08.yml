@@ -38,37 +38,37 @@ instances:
     description: Born-digital Chojuk
     edition: initial
     creation_method: web-scraping
- - pecha_id: IB7208724
+ - pecha_id: I0540AA57
     bdrc-instance-id:
     description: Oslo Chojuk
     edition: initial
     creation_method: web-scraping   
-- pecha_id: IA0C53445
+- pecha_id: I2F7C756C
     bdrc-instance-id:
     description: Oslo Chojuk
     edition: initial
     creation_method: web-scraping   
-- pecha_id: I144EC99F
+- pecha_id: I63584C2C
     bdrc-instance-id:
     description: Oslo Chojuk
     edition: initial
     creation_method: web-scraping
-- pecha_id: I39437394
+- pecha_id: I75A88184
     bdrc-instance-id:
     description: Oslo Chojuk
     edition: initial
     creation_method: web-scraping     
-- pecha_id: I46B55454
+- pecha_id: IC6DBABE6
     bdrc-instance-id:
     description: Oslo Chojuk
     edition: initial
     creation_method: web-scraping
-- pecha_id: I1FB6AAE9
+- pecha_id: IF7F1A77F
     bdrc-instance-id:
     description: Oslo Chojuk
     edition: initial
     creation_method: web-scraping     
-- pecha_id: I86E1DFFD
+- pecha_id: IFF90D274
     bdrc-instance-id:
     description: Oslo Chojuk
     edition: initial
@@ -79,11 +79,19 @@ instances:
     edition: initial
     creation_method: web-scraping 
 - pecha_id: I5A3E81FD
+    bdrc-instance-id:
+    description: Adarsha degetengyur
+    edition: initial
+    creation_method: web-scraping 
+    language: bo
     span:
       base: FE32B
       start: 0
       end: 109601
 - pecha_id: IA3E40644
+    bdrc-instance-id:
+    description: Pedurma Tengyur
+    edition: initial
     span:
       base: 48C6
       start: 1373900
