@@ -151,6 +151,7 @@ instances:
     description: Namsel ocred tenjur pedurma
     edition: initial
     initial_creation_type: ocr
+    language: bo
     span:
       base: v061
       start: 1347886
@@ -170,36 +171,67 @@ instances:
     description: buddhism.ru yagpo Tengyur(pedurma)
     edition: initial
     initial_creation_type: web scrapping
+    language: bo
     span:
       base: v061
       start: 1358381
       end: 1474316
 - pecha_id: P662822D8
+    bdrc-instance-id: 
+    description: asian classics tengyur
+    edition: initial
+    initial_creation_type: input
+    language: bo
     span:
       base: ༡༠༥  ལ།
       start: 0
       end: 108204
 - pecha_id: P59EB2E60
+    bdrc-instance-id: WA3JT13358
+    description: པོད་ཆེན་དྲུག་གི་རྩ་བ།
+    edition: initial
+    initial_creation_type: input
+    language: bo
     span:
       base: UT3JT13358_014_0000
       start: 45
       end: 109349
 - pecha_id: P78B96472
+    bdrc-instance-id: WA3JT13304
+    description: ཕར་ཕྱིན་སྐོར།
+    edition: initial
+    initial_creation_type: input
+    language: bo
     span:
       base: UT3JT13304_001_0032
       start: 66
       end: 109824
 - pecha_id: P76FD8DFA
+    bdrc-instance-id: 
+    description: Prajñāpāramitā/SakyaLibrary
+    edition: initial
+    initial_creation_type: input
+    language: bo
     span:
       base: d69a
       start: 47
       end: 112853
 - pecha_id: P9F9F5B67
+    bdrc-instance-id: 
+    description: Root verses of important philosophical treatises/SakyaLibrary
+    edition: initial
+    initial_creation_type: input
+    language: bo
     span:
       base: 51a5
       start: 46
       end: 112802
 - pecha_id: D1FB1BF14
+    bdrc-instance-id: 
+    description: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
+    edition: diplomaic
+    initial_creation_type: ocr
+    language: bo
     span:
       base: '5237'
       start: 42
@@ -210,66 +242,131 @@ instances:
       start: 43
       end: 113876
 - pecha_id: I583AD2C0
+    bdrc-instance-id: W1PD100944
+    description: སྔ་འགྱུར་བཀའ་མ་ཤིན་ཏུ་རྒྱས་པ།
+    edition: initial
+    initial_creation_type: ocr
+    language: bo
     span:
       base: A89F
       start: 621471
       end: 736687
 - pecha_id: I4AD7D933
+    bdrc-instance-id: W3CN4894
+    description: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྩ་འགྲེལ།
+    edition: initial
+    initial_creation_type: ocr
+    language: bo
     span:
       base: '4933'
       start: 18043
       end: 131018
 - pecha_id: I88737A24
+    bdrc-instance-id: W3CN3408
+    description: འཕགས་ཡུལ་རྒྱན་དྲུག་མཆོག་གཉིས་ཀྱི་ཞལ་ལུང་།
+    edition: initial
+    initial_creation_type: ocr
+    language: bo
     span:
       base: '8843'
       start: 338436
       end: 336718
 - pecha_id: I67B1441E
+    bdrc-instance-id: W21914
+    description: སྤྱོད་འཇུག་རྩ་འགྲེལ
+    edition: initial
+    initial_creation_type: ocr
+    language: bo
     span:
       base: 8DFF
       start: 2210
       end: 114729
 - pecha_id: I4BB96AB6
+    bdrc-instance-id: W1PD181143
+    description: པོད་ཆེན་དྲུག་རྩ་འགྲེལ་ཕྱོགས་བསྒྲིགས།
+    edition: initial
+    initial_creation_type: ocr
+    language: bo
     span:
       base: F41F
       start: 5106
       end: 122587
 - pecha_id: I6EB420F8
+    bdrc-instance-id: W2PD19644
+    description: རྩ་ཆེན་ཤིང་པར་དཔེ་རྙིང་དཔེ་དཀོན་ཕྱོགས་བསྡུས།
+    edition: initial
+    initial_creation_type: ocr
+    language: bo
     span:
       base: 29BC
       start: 660
       end: 104308
 - pecha_id: I7A57BBEE
+    bdrc-instance-id: W3CN1
+    description: མདོ་སྔགས་རྩ་བ་ཕྱོགས་བསྒྲིགས།
+    edition: initial
+    initial_creation_type: ocr
+    language: bo
     span:
       base: 7D15
       start: 1210257
       end: 1324110
 - pecha_id: I00D26884
+    bdrc-instance-id: W3CN1
+    description: མདོ་སྔགས་རྩ་བ་ཕྱོགས་བསྒྲིགས།
+    edition: initial
+    initial_creation_type: ocr
+    language: bo
     span:
       base: 7C6D
       start: 1210257
       end: 1324110
 - pecha_id: IC9DC4AC2
+    bdrc-instance-id: W21971
+    description: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
+    edition: initial
+    initial_creation_type: ocr
+    language: bo
     span:
       base: CCD8
       start: 1165
       end: 113262
 - pecha_id: I37AD7BA0
+    bdrc-instance-id: W1KG17199
+    description: པོད་ཆེན་དྲུག་གི་རྩ་བ་ཁག
+    edition: initial
+    initial_creation_type: ocr
+    language: bo
     span:
       base: D5E4
       start: 80421
       end: 191340
 - pecha_id: I4406FDA9
+    bdrc-instance-id: W21971
+    description: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
+    edition: initial
+    initial_creation_type: ocr
+    language: bo
     span:
       base: FA43
       start: 1165
       end: 113262
 - pecha_id: IBBD0A71B
+    bdrc-instance-id: W1KG4942
+    description: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་ལེགས་པར་བཤད་པ།
+    edition: initial
+    initial_creation_type: ocr
+    language: bo
     span:
       base: 0D44
       start: 5058
       end: 2282
 - pecha_id: I778E4E5E
+    bdrc-instance-id: W4CZ74200
+    description: སྤྱོད་འཇུག་འགྲེལ་པ་ཁག་གཉིས།
+    edition: initial
+    initial_creation_type: ocr
+    language: bo
     span:
       base: A04E
       start: 385434
