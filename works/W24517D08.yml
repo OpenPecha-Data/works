@@ -5,369 +5,435 @@ alternative-title:
 author:
 isRoot: 'true'
 type-definition: 
-language: http://purl.bdrc.io/resource/LangBo
 wiki-data-id:
-instances:
-  - pecha_id: DF8F32338
-    bdrc-instance-id: W23703
-    description: Derge Chojuk Diplomatic Edition
-    edition: derge
-    creation_method: proofreading, annotation-transfer
-  - pecha_id: D0A20E299
-    bdrc-instance-id: W1KG13126
-    description: Peking Chojuk Diplomatic Edition
-    edition: Peking
-    creation_method: proofreading, annotation-transfer
-  - pecha_id: D9755B799
-    bdrc-instance-id: W2KG5015
-    description: Narthang Chojuk Diplomatic Edition
-    edition: diplomatic
-    creation_method: proofreading, annotation-transfer
-  - pecha_id: O2FCA4A99
-    bdrc-instance-id:
-    description: Chojuk Dominant Edition
-    edition: dominant
-    creation_method: diff, voting, annotation-transfer
-  - pecha_id: I0CB5201C
-    bdrc-instance-id:
-    description: Transcribed Chojuk Initial Edition
-    edition: initial
-    creation_method: web-scraping
-  - pecha_id: I4ACC0C26
-    bdrc-instance-id:
-    description: Born-digital Chojuk
-    edition: initial
-    creation_method: web-scraping
- - pecha_id: I0540AA57
-    bdrc-instance-id:
-    description: Oslo Chojuk
-    edition: initial
-    creation_method: web-scraping  
-    language: sa
-- pecha_id: I2F7C756C
-    bdrc-instance-id:
-    description: Oslo Chojuk
-    edition: initial
-    langauge: mon
-    creation_method: web-scraping   
-- pecha_id: I63584C2C
-    bdrc-instance-id:
-    description: Oslo Chojuk
-    edition: initial
-    creation_method: web-scraping
-    language: fr
-- pecha_id: I75A88184
-    bdrc-instance-id:
-    description: Oslo Chojuk
-    edition: initial
-    creation_method: web-scraping  
-    language: bo
-- pecha_id: IC6DBABE6
-    bdrc-instance-id:
-    description: Oslo Chojuk
-    edition: initial
-    creation_method: web-scraping
-    language: bo
-- pecha_id: IF7F1A77F
-    bdrc-instance-id:
-    description: Oslo Chojuk
-    edition: initial
-    creation_method: web-scraping   
-    language: en
-- pecha_id: IFF90D274
-    bdrc-instance-id:
-    description: Oslo Chojuk
-    edition: initial
-    creation_method: web-scraping 
-    langauge: zh
-- pecha_id: I1187C7C4
-    bdrc-instance-id:
-    description: Sanskrit Chojuk
-    edition: initial
-    langauge: sa
-    creation_method: web-scraping 
-- pecha_id: I5A3E81FD
-    bdrc-instance-id:
-    description: Adarsha degetengyur
-    edition: initial
-    creation_method: web-scraping 
-    language: bo
-    span:
-      base: FE32B
-      start: 0
-      end: 109601
-- pecha_id: IA3E40644
-    bdrc-instance-id: W1PD95844
-    description: Pedurma Tengyur
-    edition: initial
-    language: bo
-    span:
-      base: 48C6
-      start: 1373900
-      end: 1492240
-- pecha_id: P000002
-    bdrc-instance-id: 
-    description:
-    edition: initial
-    language: bo
-    span:
-      base: v105
-      start: 51
-      end: 109576
-- pecha_id: P000246
-    bdrc-instance-id: 
-    Tsadra ID: VVI-017
-    description: The Words of the Peerless Lama:Notes on the Bodhisattvacharyavatara Tsarda
-    edition: initial
-    initial_creation_type: ebook
-    language: bo
-    span:
-      base: v001
-      start: 5359
-      end: 726730
-- pecha_id: P000047
-    bdrc-instance-id: 
-    Tsadra ID: LEK-PHI-004
-    description: The Bodhicharyavatara Tsarda
-    edition: initial
-    initial_creation_type: ebook
-    language: bo
-    span:
-      base: v001
-      start: 153
-      end: 109463
-- pecha_id: P000791
-    span:
-      base: v061
-      start: 1374958
-      end: 1493395
-- pecha_id: P000792
-    span:
-      base: v061
-      start: 1336330
-      end: 1450225
-- pecha_id: 187ed94f85154ea5b1ac374a651e1770
-    bdrc-instance-id: W1PD95844
-    description: Namsel ocred tenjur pedurma
-    edition: initial
-    initial_creation_type: ocr
-    language: bo
-    span:
-      base: v061
-      start: 1347886
-      end: 1461955
-- pecha_id: 1b1d54101994416abf68c4830f800485
-    span:
-      base: v061
-      start: 46
-      end: 113924
-- pecha_id: 9e8d18fd9ed94f20a29250ab181809e5
-    span:
-      base: v061
-      start: 52
-      end: 111072
-- pecha_id: PC445E4EA
-    bdrc-instance-id: 
-    description: buddhism.ru yagpo Tengyur(pedurma)
-    edition: initial
-    initial_creation_type: web scrapping
-    language: bo
-    span:
-      base: v061
-      start: 1358381
-      end: 1474316
-- pecha_id: P662822D8
-    bdrc-instance-id: 
-    description: asian classics tengyur
-    edition: initial
-    initial_creation_type: input
-    language: bo
-    span:
-      base: ༡༠༥  ལ།
-      start: 0
-      end: 108204
-- pecha_id: P59EB2E60
-    bdrc-instance-id: WA3JT13358
-    description: པོད་ཆེན་དྲུག་གི་རྩ་བ།
-    edition: initial
-    initial_creation_type: input
-    language: bo
-    span:
-      base: UT3JT13358_014_0000
-      start: 45
-      end: 109349
-- pecha_id: P78B96472
-    bdrc-instance-id: WA3JT13304
-    description: ཕར་ཕྱིན་སྐོར།
-    edition: initial
-    initial_creation_type: input
-    language: bo
-    span:
-      base: UT3JT13304_001_0032
-      start: 66
-      end: 109824
-- pecha_id: P76FD8DFA
-    bdrc-instance-id: 
-    description: Prajñāpāramitā/SakyaLibrary
-    edition: initial
-    initial_creation_type: input
-    language: bo
-    span:
-      base: d69a
-      start: 47
-      end: 112853
-- pecha_id: P9F9F5B67
-    bdrc-instance-id: 
-    description: Root verses of important philosophical treatises/SakyaLibrary
-    edition: initial
-    initial_creation_type: input
-    language: bo
-    span:
-      base: 51a5
-      start: 46
-      end: 112802
-- pecha_id: D1FB1BF14
-    bdrc-instance-id: 
-    description: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
-    edition: diplomaic
-    initial_creation_type: ocr
-    language: bo
-    span:
-      base: '5237'
-      start: 42
-      end: 111054
-- pecha_id: D3B8E4F2A
-    span:
-      base: '8268'
-      start: 43
-      end: 113876
-- pecha_id: I583AD2C0
-    bdrc-instance-id: W1PD100944
-    description: སྔ་འགྱུར་བཀའ་མ་ཤིན་ཏུ་རྒྱས་པ།
-    edition: initial
-    initial_creation_type: ocr
-    language: bo
-    span:
-      base: A89F
-      start: 621471
-      end: 736687
-- pecha_id: I4AD7D933
-    bdrc-instance-id: W3CN4894
-    description: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྩ་འགྲེལ།
-    edition: initial
-    initial_creation_type: ocr
-    language: bo
-    span:
-      base: '4933'
-      start: 18043
-      end: 131018
-- pecha_id: I88737A24
-    bdrc-instance-id: W3CN3408
-    description: འཕགས་ཡུལ་རྒྱན་དྲུག་མཆོག་གཉིས་ཀྱི་ཞལ་ལུང་།
-    edition: initial
-    initial_creation_type: ocr
-    language: bo
-    span:
-      base: '8843'
-      start: 338436
-      end: 336718
-- pecha_id: I67B1441E
-    bdrc-instance-id: W21914
-    description: སྤྱོད་འཇུག་རྩ་འགྲེལ
-    edition: initial
-    initial_creation_type: ocr
-    language: bo
-    span:
-      base: 8DFF
-      start: 2210
-      end: 114729
-- pecha_id: I4BB96AB6
-    bdrc-instance-id: W1PD181143
-    description: པོད་ཆེན་དྲུག་རྩ་འགྲེལ་ཕྱོགས་བསྒྲིགས།
-    edition: initial
-    initial_creation_type: ocr
-    language: bo
-    span:
-      base: F41F
-      start: 5106
-      end: 122587
-- pecha_id: I6EB420F8
-    bdrc-instance-id: W2PD19644
-    description: རྩ་ཆེན་ཤིང་པར་དཔེ་རྙིང་དཔེ་དཀོན་ཕྱོགས་བསྡུས།
-    edition: initial
-    initial_creation_type: ocr
-    language: bo
-    span:
-      base: 29BC
-      start: 660
-      end: 104308
-- pecha_id: I7A57BBEE
-    bdrc-instance-id: W3CN1
-    description: མདོ་སྔགས་རྩ་བ་ཕྱོགས་བསྒྲིགས།
-    edition: initial
-    initial_creation_type: ocr
-    language: bo
-    span:
-      base: 7D15
-      start: 1210257
-      end: 1324110
-- pecha_id: I00D26884
-    bdrc-instance-id: W3CN1
-    description: མདོ་སྔགས་རྩ་བ་ཕྱོགས་བསྒྲིགས།
-    edition: initial
-    initial_creation_type: ocr
-    language: bo
-    span:
-      base: 7C6D
-      start: 1210257
-      end: 1324110
-- pecha_id: IC9DC4AC2
-    bdrc-instance-id: W21971
-    description: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
-    edition: initial
-    initial_creation_type: ocr
-    language: bo
-    span:
-      base: CCD8
-      start: 1165
-      end: 113262
-- pecha_id: I37AD7BA0
-    bdrc-instance-id: W1KG17199
-    description: པོད་ཆེན་དྲུག་གི་རྩ་བ་ཁག
-    edition: initial
-    initial_creation_type: ocr
-    language: bo
-    span:
-      base: D5E4
-      start: 80421
-      end: 191340
-- pecha_id: I4406FDA9
-    bdrc-instance-id: W21971
-    description: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
-    edition: initial
-    initial_creation_type: ocr
-    language: bo
-    span:
-      base: FA43
-      start: 1165
-      end: 113262
-- pecha_id: IBBD0A71B
-    bdrc-instance-id: W1KG4942
-    description: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་ལེགས་པར་བཤད་པ།
-    edition: initial
-    initial_creation_type: ocr
-    language: bo
-    span:
-      base: 0D44
-      start: 5058
-      end: 2282
-- pecha_id: I778E4E5E
-    bdrc-instance-id: W4CZ74200
-    description: སྤྱོད་འཇུག་འགྲེལ་པ་ཁག་གཉིས།
-    edition: initial
-    initial_creation_type: ocr
-    language: bo
-    span:
-      base: A04E
-      start: 385434
-      end: 487215
+- language: en
+  - version: oslo chojuk  
+    - pecha_id: IF7F1A77F
+      bdrc-instance-id:
+      description: Oslo Chojuk
+      edition: Initial
+      creation_method: web-scraping
+      manifestation: https://github.com/OpenPecha-Data/IF7F1A77F
+- language: sa
+  - version: oslo chojuk  
+    - pecha_id: I1187C7C4
+      bdrc-instance-id:
+      description: Sanskrit Chojuk
+      edition: Initial
+      creation_method: web-scraping
+      manifestation: https://github.com/OpenPecha-Data/I1187C7C4
+    - pecha_id: I0540AA57
+      bdrc-instance-id:
+      description: Oslo Chojuk
+      edition: Initial
+      creation_method: web-scraping
+      manifestation: https://github.com/OpenPecha-Data/I0540AA57
+- language: fr
+   - version: oslo chojuk  
+    - pecha_id: I63584C2C
+      bdrc-instance-id:
+      description: Oslo Chojuk
+      edition: Initial
+      creation_method: web-scraping
+      manifestation: https://github.com/OpenPecha-Data/I63584C2C
+- language: mon
+  - version: oslo chojuk
+    - pecha_id: I2F7C756C
+      bdrc-instance-id:
+      description: Oslo Chojuk
+      edition: Initial
+      creation_method: web-scraping
+      manifestation: https://github.com/OpenPecha-Data/I2F7C756C
+- language: zh
+  - version: oslo chojuk  
+    - pecha_id: IFF90D274
+      bdrc-instance-id:
+      description: Oslo Chojuk
+      edition: Initial
+      creation_method: web-scraping
+      manifestation: https://github.com/OpenPecha-Data/IFF90D274
+- language: bo
+  - version: Derge
+    - pecha_id: DF8F32338
+      bdrc-instance-id: W23703
+      description: Derge Chojuk Diplomatic Edition
+      edition: Diplomatic
+      creation_method: proofreading, annotation-transfer
+      manifestation: https://github.com/OpenPecha-Data/DF8F32338
+  - version: Peking
+    - pecha_id: D0A20E299
+      bdrc-instance-id: W1KG13126
+      description: Peking Chojuk Diplomatic Edition
+      edition: Diplomatic
+      creation_method: proofreading, annotation-transfer
+      manifestation: https://github.com/OpenPecha-Data/D0A20E299
+  - version: Narthang
+    - pecha_id: D9755B799
+      bdrc-instance-id: W2KG5015
+      description: Narthang Chojuk Diplomatic Edition
+      edition: Diplomatic
+      creation_method: proofreading, annotation-transfer
+      manifestation: https://github.com/OpenPecha-Data/D9755B799
+  - version: Open Edition
+    - pecha_id: O2FCA4A99
+      bdrc-instance-id:
+      description: Chojuk Dominant Edition
+      edition: Open
+      creation_method: diff, voting, annotation-transfer
+      manifestation: https://github.com/OpenPecha-Data/O2FCA4A99
+  - version: googl ocr Pedurma
+    - pecha_id: D1FB1BF14
+      bdrc-instance-id: W1PD95844
+      description: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
+      edition: Diplomaic
+      creation_method: ocr, proofread
+      span:
+        base: '5237'
+        start: 42
+        end: 111054
+      manifestation: https://github.com/OpenPecha-Data/D1FB1BF14
+    - pecha_id: D3B8E4F2A
+      bdrc-instance-id: W1PD95844
+      description: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
+      edition: Diplomaic
+      creation_method: ocr, proofread
+      span:
+        base: '8268'
+        start: 43
+        end: 113876
+      manifestation: https://github.com/OpenPecha-Data/D3B8E4F2A
+    - pecha_id: IA3E40644
+      bdrc-instance-id: W1PD95844
+      description: Pedurma Tengyur
+      edition: Initial
+      creation_method: ocr
+      span:
+        base: 48C6
+        start: 1373900
+        end: 1492240
+      manifestation: https://github.com/OpenPecha-Data/IA3E40644
+    - pecha_id: P000791
+      bdrc-instance-id: W1PD95844
+      description: Pedurma
+      edition: Initial
+      creation_method: ocr
+      span:
+        base: v061
+        start: 1374958
+        end: 1493395
+      manifestation: https://github.com/OpenPecha-Data/P000791
+    - pecha_id: P000792
+      bdrc-instance-id: W1PD95844
+      description: Pedurma
+      edition: Initial
+      creation_method: ocr
+      span:
+        base: v061
+        start: 1336330
+        end: 1450225
+      manifestation: https://github.com/OpenPecha-Data/P000792
+    - pecha_id: 1b1d54101994416abf68c4830f800485
+      bdrc-instance-id: W1PD95844
+      description: Pedurma
+      edition: Initial
+      creation_method: ocr
+      span:
+        base: v061
+        start: 46
+        end: 113924
+      manifestation: https://github.com/OpenPecha-Data/1b1d54101994416abf68c4830f800485
+    - pecha_id: 9e8d18fd9ed94f20a29250ab181809e5
+      bdrc-instance-id: W1PD95844
+      description: Pedurma
+      edition: Initial
+      creation_method: ocr
+      span:
+        base: v061
+        start: 52
+        end: 111072
+      manifestation: https://github.com/OpenPecha-Data/9e8d18fd9ed94f20a29250ab181809e5
+  - version: asian classic tengyur
+    - pecha_id: P662822D8
+      bdrc-instance-id: 
+      description: asian classics tengyur
+      edition: Initial
+      creation_method: input
+      span:
+        base: ༡༠༥  ལ།
+        start: 0
+        end: 108204
+      manifestation: https://github.com/OpenPecha-Data/P662822D8
+  - version: GuruLamaWorks
+    - pecha_id: P59EB2E60
+      bdrc-instance-id: WA3JT13358
+      description: པོད་ཆེན་དྲུག་གི་རྩ་བ།
+      edition: Initial
+      creation_method: input
+      span:
+        base: UT3JT13358_014_0000
+        start: 45
+        end: 109349
+      manifestation: https://github.com/OpenPecha-Data/P59EB2E60
+    - pecha_id: P78B96472
+      bdrc-instance-id: WA3JT13304
+      description: ཕར་ཕྱིན་སྐོར།
+      edition: Initial
+      creation_method: input
+      span:
+        base: UT3JT13304_001_0032
+        start: 66
+        end: 109824
+      manifestation: https://github.com/OpenPecha-Data/P78B96472
+  - version: Sakya
+    - pecha_id: P76FD8DFA
+      bdrc-instance-id: 
+      description: Prajñāpāramitā/SakyaLibrary
+      edition: Initial
+      creation_method: input
+      span:
+        base: d69a
+        start: 47
+        end: 112853
+      manifestation: https://github.com/OpenPecha-Data/P76FD8DFA
+    - pecha_id: P9F9F5B67
+      bdrc-instance-id: 
+      description: Root verses of important philosophical treatises/SakyaLibrary
+      edition: Initial
+      creation_method: input
+      span:
+        base: 51a5
+        start: 46
+        end: 112802
+      manifestation: https://github.com/OpenPecha-Data/P9F9F5B67
+  - version: bod ljongs bod yig dpe rnying dpe skrun khang  
+    - pecha_id: I88737A24
+      bdrc-instance-id: W3CN3408
+      description: འཕགས་ཡུལ་རྒྱན་དྲུག་མཆོག་གཉིས་ཀྱི་ཞལ་ལུང་།
+      edition: Initial
+      creation_method: ocr
+      span:
+        base: '8843'
+        start: 338436
+        end: 336718
+      manifestation: https://github.com/OpenPecha-Data/I88737A24
+  - version: mtsho sngon mi rigs dpe skrun khang  
+    - pecha_id: I67B1441E
+      bdrc-instance-id: W21914
+      description: སྤྱོད་འཇུག་རྩ་འགྲེལ
+      edition: Initial
+      creation_method: ocr
+      span:
+        base: 8DFF
+        start: 2210
+        end: 114729
+      manifestation: https://github.com/OpenPecha-Data/I67B1441E
+    - pecha_id: IC9DC4AC2
+      bdrc-instance-id: W21971
+      description: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
+      edition: Initial
+      creation_method: ocr
+      span:
+        base: CCD8
+        start: 1165
+        end: 113262
+      manifestation: https://github.com/OpenPecha-Data/IC9DC4AC2
+    - pecha_id: I4406FDA9
+      bdrc-instance-id: W21971
+      description: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
+      edition: Initial
+      creation_method: ocr
+      span:
+        base: FA43
+        start: 1165
+        end: 113262
+      manifestation: https://github.com/OpenPecha-Data/I4406FDA9
+  - version: si khron dus deb tshogs pa/ si khron mi rigs dpe skrun khang
+    - pecha_id: I583AD2C0
+      bdrc-instance-id: W1PD100944
+      description: སྔ་འགྱུར་བཀའ་མ་ཤིན་ཏུ་རྒྱས་པ།
+      edition: Initial
+      creation_method: ocr
+      span:
+        base: A89F
+        start: 621471
+        end: 736687
+      manifestation: https://github.com/OpenPecha-Data/I583AD2C0
+    - pecha_id: I4BB96AB6
+      bdrc-instance-id: W1PD181143
+      description: པོད་ཆེན་དྲུག་རྩ་འགྲེལ་ཕྱོགས་བསྒྲིགས།
+      edition: Initial
+      creation_method: ocr
+      span:
+        base: F41F
+        start: 5106
+        end: 122587
+      manifestation: https://github.com/OpenPecha-Data/I4BB96AB6
+  - version: gser thang bla rung lnga rig nang bstan slob gling
+    - pecha_id: I4AD7D933
+      bdrc-instance-id: W3CN4894
+      description: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྩ་འགྲེལ།
+      edition: Initial
+      creation_method: ocr
+      span:
+        base: '4933'
+        start: 18043
+        end: 131018
+      manifestation: https://github.com/OpenPecha-Data/I4AD7D933
+  - version: rtsa chen shing par dpe rnying dpe dkon phyogs bsdus
+    - pecha_id: I6EB420F8
+      bdrc-instance-id: W2PD19644
+      description: རྩ་ཆེན་ཤིང་པར་དཔེ་རྙིང་དཔེ་དཀོན་ཕྱོགས་བསྡུས།
+      edition: Initial
+      creation_method: ocr
+      span:
+        base: 29BC
+        start: 660
+        end: 104308
+      manifestation: https://github.com/OpenPecha-Data/I6EB420F8    
+  - version: sa skya rgyal yongs gsung rab slob gnyer khang  
+    - pecha_id: I37AD7BA0
+      bdrc-instance-id: W1KG17199
+      description: པོད་ཆེན་དྲུག་གི་རྩ་བ་ཁག
+      edition: Initial
+      creation_method: ocr
+      span:
+        base: D5E4
+        start: 80421
+        end: 191340
+      manifestation: https://github.com/OpenPecha-Data/I37AD7BA0
+  - version: nagwang topgyal
+    - pecha_id: IBBD0A71B
+      bdrc-instance-id: W1KG4942
+      description: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་ལེགས་པར་བཤད་པ།
+      edition: Initial
+      creation_method: ocr
+      span:
+        base: 0D44
+        start: 5058
+        end: 2282
+      manifestation: https://github.com/OpenPecha-Data/IBBD0A71B
+  - version: lcang lung  
+    - pecha_id: I778E4E5E
+      bdrc-instance-id: W4CZ74200
+      description: སྤྱོད་འཇུག་འགྲེལ་པ་ཁག་གཉིས།
+      edition: Initial
+      creation_method: ocr
+      span:
+        base: A04E
+        start: 385434
+        end: 487215
+      manifestation: https://github.com/OpenPecha-Data/I778E4E5E
+  - version: Esukhia Chojuk-alignment
+    - pecha_id: I4ACC0C26
+      bdrc-instance-id:
+      description: Born-digital Chojuk
+      edition: Initial
+      creation_method: web-scraping
+      manifestation: https://github.com/OpenPecha-Data/I4ACC0C26
+  - version: oslo chojuk   
+    - pecha_id: I75A88184
+      bdrc-instance-id:
+      description: Oslo Chojuk
+      edition: Initial
+      creation_method: web-scraping
+      manifestation: https://github.com/OpenPecha-Data/I75A88184
+    - pecha_id: IC6DBABE6
+      bdrc-instance-id:
+      description: Oslo Chojuk
+      edition: Initial
+      creation_method: web-scraping
+      manifestation: https://github.com/OpenPecha-Data/IC6DBABE6
+  - version: Adarsha degetengyur
+    - pecha_id: I5A3E81FD
+      bdrc-instance-id:
+      description: Adarsha degetengyur
+      edition: Initial
+      creation_method: web-scraping
+      span:
+        base: FE32B
+        start: 0
+        end: 109601
+      manifestation: https://github.com/OpenPecha-Data/I5A3E81FD
+  - version: delhi karmapae choedhey, gyalwae sungrab partun khang  
+    - pecha_id: P000002
+      bdrc-instance-id: W23703
+      description:
+      edition: Initial
+      creation_method: input
+      span:
+        base: v105
+        start: 51
+        end: 109576
+      manifestation: https://github.com/OpenPecha-Data/P000002
+  - version: Tsadra
+    - pecha_id: P000246
+      bdrc-instance-id: 
+      Tsadra ID: VVI-017
+      description: The Words of the Peerless Lama:Notes on the Bodhisattvacharyavatara Tsarda
+      edition: Initial
+      creation_method: ebook parsing
+      span:
+        base: v001
+        start: 5359
+        end: 726730
+      manifestation: https://github.com/OpenPecha-Data/P000246
+    - pecha_id: P000047
+      bdrc-instance-id: 
+      Tsadra ID: LEK-PHI-004
+      description: The Bodhicharyavatara Tsarda
+      edition: Initial
+      creation_method: ebook parsing
+      span:
+        base: v001
+        start: 153
+        end: 109463
+      manifestation: https://github.com/OpenPecha-Data/P000047
+  - version: Russian Pedurma
+    - pecha_id: PC445E4EA
+      bdrc-instance-id: 
+      description: buddhism.ru yagpo Tengyur(pedurma)
+      edition: Initial
+      creation_method: web scrapping
+      span:
+        base: v061
+        start: 1358381
+        end: 1474316
+      manifestation: https://github.com/OpenPecha-Data/PC445E4EA
+  - version: namsel ocr pedurma  
+    - pecha_id: 187ed94f85154ea5b1ac374a651e1770
+      bdrc-instance-id: W1PD95844
+      description: Namsel ocred tenjur pedurma
+      edition: Initial
+      creation_method: ocr
+      span:
+        base: v061
+        start: 1347886
+        end: 1461955
+      manifestation: https://github.com/OpenPecha-Data/187ed94f85154ea5b1ac374a651e1770
+  - version: unknown  
+    - pecha_id: I7A57BBEE
+      bdrc-instance-id: W3CN1
+      description: མདོ་སྔགས་རྩ་བ་ཕྱོགས་བསྒྲིགས།
+      edition: Initial
+      creation_method: ocr
+      span:
+        base: 7D15
+        start: 1210257
+        end: 1324110
+      manifestation: https://github.com/OpenPecha-Data/I7A57BBEE  
+    - pecha_id: I00D26884
+      bdrc-instance-id: W3CN1
+      description: མདོ་སྔགས་རྩ་བ་ཕྱོགས་བསྒྲིགས།
+      edition: Initial
+      creation_method: ocr
+      span:
+        base: 7C6D
+        start: 1210257
+        end: 1324110
+      manifestation: https://github.com/OpenPecha-Data/I00D26884
+    - pecha_id: I0CB5201C
+      bdrc-instance-id:
+      description: Transcribed Chojuk Initial Edition
+      edition: Initial
+      creation_method: web-scraping
+      manifestation: https://github.com/OpenPecha-Data/I0CB5201C
