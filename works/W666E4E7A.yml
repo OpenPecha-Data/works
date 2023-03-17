@@ -1,21 +1,33 @@
-id: W666E4E7A
-title: ཆོས་ཀྱི་དབྱིངས་སུ་བསྟོད་པ།
-alternative_title: ཆོས་ཀྱི་དབྱིངས་སུ་བསྟོད་པ།
-language: LangBo
-bdrc_work_id: WA0RT0010
+alternative_title: "\u0F46\u0F7C\u0F66\u0F0B\u0F40\u0FB1\u0F72\u0F0B\u0F51\u0F56\u0FB1\
+  \u0F72\u0F44\u0F66\u0F0B\u0F66\u0F74\u0F0B\u0F56\u0F66\u0F9F\u0F7C\u0F51\u0F0B\u0F54\
+  \u0F0D"
 authors:
-- སློབ་དཔོན་ཀླུ་སྒྲུབ།
-- ནག་ཚོ་ལོ་ཙཱ་བ།
+- "\u0F66\u0FB3\u0F7C\u0F56\u0F0B\u0F51\u0F54\u0F7C\u0F53\u0F0B\u0F40\u0FB3\u0F74\u0F0B\
+  \u0F66\u0F92\u0FB2\u0F74\u0F56\u0F0D"
+- "\u0F53\u0F42\u0F0B\u0F5A\u0F7C\u0F0B\u0F63\u0F7C\u0F0B\u0F59\u0F71\u0F0B\u0F56\u0F0D"
+bdrc_work_id: WA0RT0010
 best_instance: null
+id: W666E4E7A
 instances:
-- id: MW1KG13607_0394
-  titles:
-  - ཆོས་ཀྱི་དབྱིངས་སུ་བསྟོད་པ།
-  - དྷརྨ་དྷ་ཏུ་སྟ་པ།
-  colophon: ཆོས་ཀྱི་དབྱིངས་སུ་བསྟོད་པ་སློབ་དཔོན་ཀླུ་གྲུབ་ཀྱིས་མཛད་པ་རྫོགས་སྷོ༎ རྒྱ་གར་གྱི་མཁན་པོ་ཀྲིསྣ་པཎྜི་ཏ་དང།
-    ལོ་ཙྪ་བ་དགེ་སློང་ཐསུལ་ཁྲིམས་རྒྱལ་པས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།
+- alignmnet_ids: null
   authors: null
   bdrc_id: null
+  collection_ids: null
+  colophon: "\u0F46\u0F7C\u0F66\u0F0B\u0F40\u0FB1\u0F72\u0F0B\u0F51\u0F56\u0FB1\u0F72\
+    \u0F44\u0F66\u0F0B\u0F66\u0F74\u0F0B\u0F56\u0F66\u0F9F\u0F7C\u0F51\u0F0B\u0F54\
+    \u0F0B\u0F66\u0FB3\u0F7C\u0F56\u0F0B\u0F51\u0F54\u0F7C\u0F53\u0F0B\u0F40\u0FB3\
+    \u0F74\u0F0B\u0F42\u0FB2\u0F74\u0F56\u0F0B\u0F40\u0FB1\u0F72\u0F66\u0F0B\u0F58\
+    \u0F5B\u0F51\u0F0B\u0F54\u0F0B\u0F62\u0FAB\u0F7C\u0F42\u0F66\u0F0B\u0F66\u0FB7\
+    \u0F7C\u0F0E \u0F62\u0F92\u0FB1\u0F0B\u0F42\u0F62\u0F0B\u0F42\u0FB1\u0F72\u0F0B\
+    \u0F58\u0F41\u0F53\u0F0B\u0F54\u0F7C\u0F0B\u0F40\u0FB2\u0F72\u0F66\u0FA3\u0F0B\
+    \u0F54\u0F4E\u0F9C\u0F72\u0F0B\u0F4F\u0F0B\u0F51\u0F44\u0F0D \u0F63\u0F7C\u0F0B\
+    \u0F59\u0FAA\u0F0B\u0F56\u0F0B\u0F51\u0F42\u0F7A\u0F0B\u0F66\u0FB3\u0F7C\u0F44\
+    \u0F0B\u0F50\u0F66\u0F74\u0F63\u0F0B\u0F41\u0FB2\u0F72\u0F58\u0F66\u0F0B\u0F62\
+    \u0F92\u0FB1\u0F63\u0F0B\u0F54\u0F66\u0F0B\u0F56\u0F66\u0F92\u0FB1\u0F74\u0F62\
+    \u0F0B\u0F45\u0F72\u0F44\u0F0B\u0F5E\u0F74\u0F66\u0F0B\u0F4F\u0F7A\u0F0B\u0F42\
+    \u0F4F\u0F53\u0F0B\u0F63\u0F0B\u0F55\u0F56\u0F0B\u0F54\u0F0D"
+  diplomatic_id: null
+  id: MW1KG13607_0394
   location_info:
     contentLocationEndLine: '7'
     contentLocationEndPage: '691'
@@ -23,17 +35,29 @@ instances:
     contentLocationLine: '6'
     contentLocationPage: '681'
     contentLocationVolume: '96'
-  diplomatic_id: null
-  alignmnet_ids: null
-  collection_ids: null
-- id: MW23703_1118
   titles:
-  - དྷརྨ་དྷཱ་ཏུ་སྟ་བཾ།
-  - ཆོས་ཀྱི་དབྱིངས་སུ་བསྟོད་པ།
-  colophon: ཆོས་ཀྱི་དབྱིངས་སུ་བསྟོད་པ་སློབ་དཔོན་ཆེན་པོ་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པ་རྫོགས་སོ༎
-    ༎རྒྱ་གར་གྱི་མཁན་པོ་ཀྲིཤན་པཎྜི་ཏ་དང། ལོ་ཚཱ་བ་ཚུལ་ཁྲིམས་རྒྱལ་བས་བསྒྱུར་བའོ༎
+  - "\u0F46\u0F7C\u0F66\u0F0B\u0F40\u0FB1\u0F72\u0F0B\u0F51\u0F56\u0FB1\u0F72\u0F44\
+    \u0F66\u0F0B\u0F66\u0F74\u0F0B\u0F56\u0F66\u0F9F\u0F7C\u0F51\u0F0B\u0F54\u0F0D"
+  - "\u0F51\u0FB7\u0F62\u0FA8\u0F0B\u0F51\u0FB7\u0F0B\u0F4F\u0F74\u0F0B\u0F66\u0F9F\
+    \u0F0B\u0F54\u0F0D"
+- alignmnet_ids: null
   authors: null
   bdrc_id: null
+  collection_ids: null
+  colophon: "\u0F46\u0F7C\u0F66\u0F0B\u0F40\u0FB1\u0F72\u0F0B\u0F51\u0F56\u0FB1\u0F72\
+    \u0F44\u0F66\u0F0B\u0F66\u0F74\u0F0B\u0F56\u0F66\u0F9F\u0F7C\u0F51\u0F0B\u0F54\
+    \u0F0B\u0F66\u0FB3\u0F7C\u0F56\u0F0B\u0F51\u0F54\u0F7C\u0F53\u0F0B\u0F46\u0F7A\
+    \u0F53\u0F0B\u0F54\u0F7C\u0F0B\u0F40\u0FB3\u0F74\u0F0B\u0F66\u0F92\u0FB2\u0F74\
+    \u0F56\u0F0B\u0F40\u0FB1\u0F72\u0F66\u0F0B\u0F58\u0F5B\u0F51\u0F0B\u0F54\u0F0B\
+    \u0F62\u0FAB\u0F7C\u0F42\u0F66\u0F0B\u0F66\u0F7C\u0F0E \u0F0E\u0F62\u0F92\u0FB1\
+    \u0F0B\u0F42\u0F62\u0F0B\u0F42\u0FB1\u0F72\u0F0B\u0F58\u0F41\u0F53\u0F0B\u0F54\
+    \u0F7C\u0F0B\u0F40\u0FB2\u0F72\u0F64\u0F53\u0F0B\u0F54\u0F4E\u0F9C\u0F72\u0F0B\
+    \u0F4F\u0F0B\u0F51\u0F44\u0F0D \u0F63\u0F7C\u0F0B\u0F5A\u0F71\u0F0B\u0F56\u0F0B\
+    \u0F5A\u0F74\u0F63\u0F0B\u0F41\u0FB2\u0F72\u0F58\u0F66\u0F0B\u0F62\u0F92\u0FB1\
+    \u0F63\u0F0B\u0F56\u0F66\u0F0B\u0F56\u0F66\u0F92\u0FB1\u0F74\u0F62\u0F0B\u0F56\
+    \u0F60\u0F7C\u0F0E"
+  diplomatic_id: null
+  id: MW23703_1118
   location_info:
     contentLocationEndLine: '3'
     contentLocationEndPage: '136'
@@ -41,17 +65,29 @@ instances:
     contentLocationLine: '5'
     contentLocationPage: '128'
     contentLocationVolume: '1'
-  diplomatic_id: null
-  alignmnet_ids: null
-  collection_ids: null
-- id: MW1PD95844_0010
   titles:
-  - ཆོས་ཀྱི་དབྱིངས་སུ་བསྟོད་པ།
-  - དྷརྨ་དྷཱ་ཏུ་སྟ་བཾ།
-  colophon: ཆོས་ཀྱི་དབྱིངས་སུ་བསྟོད་པ་སློབ་དཔོན་འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པ་རྫོགས་སོ།
-    །རྒྱ་གར་གྱི་མཁན་པོ་ཀྲིཥྞ་པཎྜི་ཏ་དང་། ལོ་ཙཱ་བ་དགེ་སློང་ཚུལ་ཁྲིམས་རྒྱལ་བས་བསྒྱུར་བའོ
+  - "\u0F51\u0FB7\u0F62\u0FA8\u0F0B\u0F51\u0FB7\u0F71\u0F0B\u0F4F\u0F74\u0F0B\u0F66\
+    \u0F9F\u0F0B\u0F56\u0F7E\u0F0D"
+  - "\u0F46\u0F7C\u0F66\u0F0B\u0F40\u0FB1\u0F72\u0F0B\u0F51\u0F56\u0FB1\u0F72\u0F44\
+    \u0F66\u0F0B\u0F66\u0F74\u0F0B\u0F56\u0F66\u0F9F\u0F7C\u0F51\u0F0B\u0F54\u0F0D"
+- alignmnet_ids: null
   authors: null
   bdrc_id: null
+  collection_ids: null
+  colophon: "\u0F46\u0F7C\u0F66\u0F0B\u0F40\u0FB1\u0F72\u0F0B\u0F51\u0F56\u0FB1\u0F72\
+    \u0F44\u0F66\u0F0B\u0F66\u0F74\u0F0B\u0F56\u0F66\u0F9F\u0F7C\u0F51\u0F0B\u0F54\
+    \u0F0B\u0F66\u0FB3\u0F7C\u0F56\u0F0B\u0F51\u0F54\u0F7C\u0F53\u0F0B\u0F60\u0F55\
+    \u0F42\u0F66\u0F0B\u0F54\u0F0B\u0F40\u0FB3\u0F74\u0F0B\u0F66\u0F92\u0FB2\u0F74\
+    \u0F56\u0F0B\u0F40\u0FB1\u0F72\u0F66\u0F0B\u0F58\u0F5B\u0F51\u0F0B\u0F54\u0F0B\
+    \u0F62\u0FAB\u0F7C\u0F42\u0F66\u0F0B\u0F66\u0F7C\u0F0D \u0F0D\u0F62\u0F92\u0FB1\
+    \u0F0B\u0F42\u0F62\u0F0B\u0F42\u0FB1\u0F72\u0F0B\u0F58\u0F41\u0F53\u0F0B\u0F54\
+    \u0F7C\u0F0B\u0F40\u0FB2\u0F72\u0F65\u0F9E\u0F0B\u0F54\u0F4E\u0F9C\u0F72\u0F0B\
+    \u0F4F\u0F0B\u0F51\u0F44\u0F0B\u0F0D \u0F63\u0F7C\u0F0B\u0F59\u0F71\u0F0B\u0F56\
+    \u0F0B\u0F51\u0F42\u0F7A\u0F0B\u0F66\u0FB3\u0F7C\u0F44\u0F0B\u0F5A\u0F74\u0F63\
+    \u0F0B\u0F41\u0FB2\u0F72\u0F58\u0F66\u0F0B\u0F62\u0F92\u0FB1\u0F63\u0F0B\u0F56\
+    \u0F66\u0F0B\u0F56\u0F66\u0F92\u0FB1\u0F74\u0F62\u0F0B\u0F56\u0F60\u0F7C"
+  diplomatic_id: null
+  id: MW1PD95844_0010
   location_info:
     contentLocationEndLine: null
     contentLocationEndPage: '227'
@@ -59,17 +95,29 @@ instances:
     contentLocationLine: null
     contentLocationPage: '216'
     contentLocationVolume: '1'
-  diplomatic_id: null
-  alignmnet_ids: null
-  collection_ids: null
-- id: MW22704_0799
   titles:
-  - དྷརྨ་དྷཱ་ཏུ་སྟོ་ཏྲ།
-  - ཆོས་ཀྱི་དབྱིངས་སུ་བསྟོད་པ།
-  colophon: ཆོས་ཀྱི་དབྱིངས་སུ་བསྟོད་པ་སློབ་དཔོན་འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པ་རྫོགས་སོ།
-    །རྒྱ་གར་གྱི་མཁན་པོ་ཀྲིཥྞ་པཎྜི་ཏ་དང་། ལོ་ཙཱ་བ་དགེ་སློང་ཚུལ་ཁྲིམས་རྒྱལ་བས་བསྒྱུར་བའོ
+  - "\u0F46\u0F7C\u0F66\u0F0B\u0F40\u0FB1\u0F72\u0F0B\u0F51\u0F56\u0FB1\u0F72\u0F44\
+    \u0F66\u0F0B\u0F66\u0F74\u0F0B\u0F56\u0F66\u0F9F\u0F7C\u0F51\u0F0B\u0F54\u0F0D"
+  - "\u0F51\u0FB7\u0F62\u0FA8\u0F0B\u0F51\u0FB7\u0F71\u0F0B\u0F4F\u0F74\u0F0B\u0F66\
+    \u0F9F\u0F0B\u0F56\u0F7E\u0F0D"
+- alignmnet_ids: null
   authors: null
   bdrc_id: null
+  collection_ids: null
+  colophon: "\u0F46\u0F7C\u0F66\u0F0B\u0F40\u0FB1\u0F72\u0F0B\u0F51\u0F56\u0FB1\u0F72\
+    \u0F44\u0F66\u0F0B\u0F66\u0F74\u0F0B\u0F56\u0F66\u0F9F\u0F7C\u0F51\u0F0B\u0F54\
+    \u0F0B\u0F66\u0FB3\u0F7C\u0F56\u0F0B\u0F51\u0F54\u0F7C\u0F53\u0F0B\u0F60\u0F55\
+    \u0F42\u0F66\u0F0B\u0F54\u0F0B\u0F40\u0FB3\u0F74\u0F0B\u0F66\u0F92\u0FB2\u0F74\
+    \u0F56\u0F0B\u0F40\u0FB1\u0F72\u0F66\u0F0B\u0F58\u0F5B\u0F51\u0F0B\u0F54\u0F0B\
+    \u0F62\u0FAB\u0F7C\u0F42\u0F66\u0F0B\u0F66\u0F7C\u0F0D \u0F0D\u0F62\u0F92\u0FB1\
+    \u0F0B\u0F42\u0F62\u0F0B\u0F42\u0FB1\u0F72\u0F0B\u0F58\u0F41\u0F53\u0F0B\u0F54\
+    \u0F7C\u0F0B\u0F40\u0FB2\u0F72\u0F65\u0F9E\u0F0B\u0F54\u0F4E\u0F9C\u0F72\u0F0B\
+    \u0F4F\u0F0B\u0F51\u0F44\u0F0B\u0F0D \u0F63\u0F7C\u0F0B\u0F59\u0F71\u0F0B\u0F56\
+    \u0F0B\u0F51\u0F42\u0F7A\u0F0B\u0F66\u0FB3\u0F7C\u0F44\u0F0B\u0F5A\u0F74\u0F63\
+    \u0F0B\u0F41\u0FB2\u0F72\u0F58\u0F66\u0F0B\u0F62\u0F92\u0FB1\u0F63\u0F0B\u0F56\
+    \u0F66\u0F0B\u0F56\u0F66\u0F92\u0FB1\u0F74\u0F62\u0F0B\u0F56\u0F60\u0F7C"
+  diplomatic_id: null
+  id: MW22704_0799
   location_info:
     contentLocationEndLine: '3'
     contentLocationEndPage: '152'
@@ -77,17 +125,30 @@ instances:
     contentLocationLine: '3'
     contentLocationPage: '143'
     contentLocationVolume: '1'
-  diplomatic_id: null
-  alignmnet_ids: null
-  collection_ids: null
-- id: MW1KG13607_0244
   titles:
-  - ཆོས་ཀྱི་དབྱིངས་སུ་བསྟོད་པ།
-  - དྷརྨ་དྷ་ཏུ་སྟ་པ།
-  colophon: ཆོས་ཀྱི་དབྱིངས་སུ་བསྟོད་པ། སློབ་དཔོན་ཀླུ་གྲུབ་ཀྱིས་མཛད་པ་རྫོགས་སྷོ༎ རྒྱ་གར་གྱི་མཁན་པོ་ཀྲི་སྣ་བན་དི་ཏ་དང།
-    ལོ་ཙ་བ་དགེ་སློང་ཚུལ་ཁྲིམས་རྒྱལ་བས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།
+  - "\u0F51\u0FB7\u0F62\u0FA8\u0F0B\u0F51\u0FB7\u0F71\u0F0B\u0F4F\u0F74\u0F0B\u0F66\
+    \u0F9F\u0F7C\u0F0B\u0F4F\u0FB2\u0F0D"
+  - "\u0F46\u0F7C\u0F66\u0F0B\u0F40\u0FB1\u0F72\u0F0B\u0F51\u0F56\u0FB1\u0F72\u0F44\
+    \u0F66\u0F0B\u0F66\u0F74\u0F0B\u0F56\u0F66\u0F9F\u0F7C\u0F51\u0F0B\u0F54\u0F0D"
+- alignmnet_ids: null
   authors: null
   bdrc_id: null
+  collection_ids: null
+  colophon: "\u0F46\u0F7C\u0F66\u0F0B\u0F40\u0FB1\u0F72\u0F0B\u0F51\u0F56\u0FB1\u0F72\
+    \u0F44\u0F66\u0F0B\u0F66\u0F74\u0F0B\u0F56\u0F66\u0F9F\u0F7C\u0F51\u0F0B\u0F54\
+    \u0F0D \u0F66\u0FB3\u0F7C\u0F56\u0F0B\u0F51\u0F54\u0F7C\u0F53\u0F0B\u0F40\u0FB3\
+    \u0F74\u0F0B\u0F42\u0FB2\u0F74\u0F56\u0F0B\u0F40\u0FB1\u0F72\u0F66\u0F0B\u0F58\
+    \u0F5B\u0F51\u0F0B\u0F54\u0F0B\u0F62\u0FAB\u0F7C\u0F42\u0F66\u0F0B\u0F66\u0FB7\
+    \u0F7C\u0F0E \u0F62\u0F92\u0FB1\u0F0B\u0F42\u0F62\u0F0B\u0F42\u0FB1\u0F72\u0F0B\
+    \u0F58\u0F41\u0F53\u0F0B\u0F54\u0F7C\u0F0B\u0F40\u0FB2\u0F72\u0F0B\u0F66\u0FA3\
+    \u0F0B\u0F56\u0F53\u0F0B\u0F51\u0F72\u0F0B\u0F4F\u0F0B\u0F51\u0F44\u0F0D \u0F63\
+    \u0F7C\u0F0B\u0F59\u0F0B\u0F56\u0F0B\u0F51\u0F42\u0F7A\u0F0B\u0F66\u0FB3\u0F7C\
+    \u0F44\u0F0B\u0F5A\u0F74\u0F63\u0F0B\u0F41\u0FB2\u0F72\u0F58\u0F66\u0F0B\u0F62\
+    \u0F92\u0FB1\u0F63\u0F0B\u0F56\u0F66\u0F0B\u0F56\u0F66\u0F92\u0FB1\u0F74\u0F62\
+    \u0F0B\u0F45\u0F72\u0F44\u0F0B\u0F5E\u0F74\u0F66\u0F0B\u0F4F\u0F7A\u0F0B\u0F42\
+    \u0F4F\u0F53\u0F0B\u0F63\u0F0B\u0F55\u0F56\u0F0B\u0F54\u0F0D"
+  diplomatic_id: null
+  id: MW1KG13607_0244
   location_info:
     contentLocationEndLine: '7'
     contentLocationEndPage: '772'
@@ -95,17 +156,29 @@ instances:
     contentLocationLine: '3'
     contentLocationPage: '761'
     contentLocationVolume: '80'
-  diplomatic_id: null
-  alignmnet_ids: null
-  collection_ids: null
-- id: MW1KG13126_2010
   titles:
-  - དྷརྨ་དྷཱ་ཏུ་སྟོ་ཏྲ།
-  - ཆོས་ཀྱི་དབྱིངས་སུ་བསྟོད་པ།
-  colophon: ཆོས་ཀྱི་དབྱིངས་སུ་བསྟོད་པ་སློབ་དཔོན་འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པ་རྫོགས་སོ།
-    །རྒྱ་གར་གྱི་མཁན་པོ་ཀྲིཥྞ་པཎྜི་ཏ་དང་། ལོ་ཙཱ་བ་དགེ་སློང་ཚུལ་ཁྲིམས་རྒྱལ་བས་བསྒྱུར་བའོ
+  - "\u0F46\u0F7C\u0F66\u0F0B\u0F40\u0FB1\u0F72\u0F0B\u0F51\u0F56\u0FB1\u0F72\u0F44\
+    \u0F66\u0F0B\u0F66\u0F74\u0F0B\u0F56\u0F66\u0F9F\u0F7C\u0F51\u0F0B\u0F54\u0F0D"
+  - "\u0F51\u0FB7\u0F62\u0FA8\u0F0B\u0F51\u0FB7\u0F0B\u0F4F\u0F74\u0F0B\u0F66\u0F9F\
+    \u0F0B\u0F54\u0F0D"
+- alignmnet_ids: null
   authors: null
   bdrc_id: null
+  collection_ids: null
+  colophon: "\u0F46\u0F7C\u0F66\u0F0B\u0F40\u0FB1\u0F72\u0F0B\u0F51\u0F56\u0FB1\u0F72\
+    \u0F44\u0F66\u0F0B\u0F66\u0F74\u0F0B\u0F56\u0F66\u0F9F\u0F7C\u0F51\u0F0B\u0F54\
+    \u0F0B\u0F66\u0FB3\u0F7C\u0F56\u0F0B\u0F51\u0F54\u0F7C\u0F53\u0F0B\u0F60\u0F55\
+    \u0F42\u0F66\u0F0B\u0F54\u0F0B\u0F40\u0FB3\u0F74\u0F0B\u0F66\u0F92\u0FB2\u0F74\
+    \u0F56\u0F0B\u0F40\u0FB1\u0F72\u0F66\u0F0B\u0F58\u0F5B\u0F51\u0F0B\u0F54\u0F0B\
+    \u0F62\u0FAB\u0F7C\u0F42\u0F66\u0F0B\u0F66\u0F7C\u0F0D \u0F0D\u0F62\u0F92\u0FB1\
+    \u0F0B\u0F42\u0F62\u0F0B\u0F42\u0FB1\u0F72\u0F0B\u0F58\u0F41\u0F53\u0F0B\u0F54\
+    \u0F7C\u0F0B\u0F40\u0FB2\u0F72\u0F65\u0F9E\u0F0B\u0F54\u0F4E\u0F9C\u0F72\u0F0B\
+    \u0F4F\u0F0B\u0F51\u0F44\u0F0B\u0F0D \u0F63\u0F7C\u0F0B\u0F59\u0F71\u0F0B\u0F56\
+    \u0F0B\u0F51\u0F42\u0F7A\u0F0B\u0F66\u0FB3\u0F7C\u0F44\u0F0B\u0F5A\u0F74\u0F63\
+    \u0F0B\u0F41\u0FB2\u0F72\u0F58\u0F66\u0F0B\u0F62\u0F92\u0FB1\u0F63\u0F0B\u0F56\
+    \u0F66\u0F0B\u0F56\u0F66\u0F92\u0FB1\u0F74\u0F62\u0F0B\u0F56\u0F60\u0F7C"
+  diplomatic_id: null
+  id: MW1KG13126_2010
   location_info:
     contentLocationEndLine: '8'
     contentLocationEndPage: '161'
@@ -113,17 +186,29 @@ instances:
     contentLocationLine: '7'
     contentLocationPage: '152'
     contentLocationVolume: '1'
-  diplomatic_id: null
-  alignmnet_ids: null
-  collection_ids: null
-- id: MW23702_0010
   titles:
-  - ཆོས་ཀྱི་དབྱིངས་སུ་བསྟོད་པ།
-  - དྷརྨ་དྷཱ་ཏུ་སྟོ་ཏྲ།
-  colophon: ཆོས་ཀྱི་དབྱིངས་སུ་བསྟོད་པ་སློབ་དཔོན་འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པ་རྫོགས་སོ།
-    །རྒྱ་གར་གྱི་མཁན་པོ་ཀྲིཥྞ་པཎྜི་ཏ་དང་། ལོ་ཙཱ་བ་དགེ་སློང་ཚུལ་ཁྲིམས་རྒྱལ་བས་བསྒྱུར་བའོ
+  - "\u0F51\u0FB7\u0F62\u0FA8\u0F0B\u0F51\u0FB7\u0F71\u0F0B\u0F4F\u0F74\u0F0B\u0F66\
+    \u0F9F\u0F7C\u0F0B\u0F4F\u0FB2\u0F0D"
+  - "\u0F46\u0F7C\u0F66\u0F0B\u0F40\u0FB1\u0F72\u0F0B\u0F51\u0F56\u0FB1\u0F72\u0F44\
+    \u0F66\u0F0B\u0F66\u0F74\u0F0B\u0F56\u0F66\u0F9F\u0F7C\u0F51\u0F0B\u0F54\u0F0D"
+- alignmnet_ids: null
   authors: null
   bdrc_id: null
+  collection_ids: null
+  colophon: "\u0F46\u0F7C\u0F66\u0F0B\u0F40\u0FB1\u0F72\u0F0B\u0F51\u0F56\u0FB1\u0F72\
+    \u0F44\u0F66\u0F0B\u0F66\u0F74\u0F0B\u0F56\u0F66\u0F9F\u0F7C\u0F51\u0F0B\u0F54\
+    \u0F0B\u0F66\u0FB3\u0F7C\u0F56\u0F0B\u0F51\u0F54\u0F7C\u0F53\u0F0B\u0F60\u0F55\
+    \u0F42\u0F66\u0F0B\u0F54\u0F0B\u0F40\u0FB3\u0F74\u0F0B\u0F66\u0F92\u0FB2\u0F74\
+    \u0F56\u0F0B\u0F40\u0FB1\u0F72\u0F66\u0F0B\u0F58\u0F5B\u0F51\u0F0B\u0F54\u0F0B\
+    \u0F62\u0FAB\u0F7C\u0F42\u0F66\u0F0B\u0F66\u0F7C\u0F0D \u0F0D\u0F62\u0F92\u0FB1\
+    \u0F0B\u0F42\u0F62\u0F0B\u0F42\u0FB1\u0F72\u0F0B\u0F58\u0F41\u0F53\u0F0B\u0F54\
+    \u0F7C\u0F0B\u0F40\u0FB2\u0F72\u0F65\u0F9E\u0F0B\u0F54\u0F4E\u0F9C\u0F72\u0F0B\
+    \u0F4F\u0F0B\u0F51\u0F44\u0F0B\u0F0D \u0F63\u0F7C\u0F0B\u0F59\u0F71\u0F0B\u0F56\
+    \u0F0B\u0F51\u0F42\u0F7A\u0F0B\u0F66\u0FB3\u0F7C\u0F44\u0F0B\u0F5A\u0F74\u0F63\
+    \u0F0B\u0F41\u0FB2\u0F72\u0F58\u0F66\u0F0B\u0F62\u0F92\u0FB1\u0F63\u0F0B\u0F56\
+    \u0F66\u0F0B\u0F56\u0F66\u0F92\u0FB1\u0F74\u0F62\u0F0B\u0F56\u0F60\u0F7C"
+  diplomatic_id: null
+  id: MW23702_0010
   location_info:
     contentLocationEndLine: '1'
     contentLocationEndPage: '192'
@@ -131,17 +216,29 @@ instances:
     contentLocationLine: '1'
     contentLocationPage: '182'
     contentLocationVolume: '1'
-  diplomatic_id: null
-  alignmnet_ids: null
-  collection_ids: null
-- id: MW2KG5015_0799
   titles:
-  - ཆོས་ཀྱི་དབྱིངས་སུ་བསྟོད་པ།
-  - དྷརྨ་དྷཱ་ཏུ་སྟོ་ཏྲ།
-  colophon: ཆོས་ཀྱི་དབྱིངས་སུ་བསྟོད་པ་སློབ་དཔོན་འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པ་རྫོགས་སོ།
-    །རྒྱ་གར་གྱི་མཁན་པོ་ཀྲིཥྞ་པཎྜི་ཏ་དང་། ལོ་ཙཱ་བ་དགེ་སློང་ཚུལ་ཁྲིམས་རྒྱལ་བས་བསྒྱུར་བའོ
+  - "\u0F46\u0F7C\u0F66\u0F0B\u0F40\u0FB1\u0F72\u0F0B\u0F51\u0F56\u0FB1\u0F72\u0F44\
+    \u0F66\u0F0B\u0F66\u0F74\u0F0B\u0F56\u0F66\u0F9F\u0F7C\u0F51\u0F0B\u0F54\u0F0D"
+  - "\u0F51\u0FB7\u0F62\u0FA8\u0F0B\u0F51\u0FB7\u0F71\u0F0B\u0F4F\u0F74\u0F0B\u0F66\
+    \u0F9F\u0F7C\u0F0B\u0F4F\u0FB2\u0F0D"
+- alignmnet_ids: null
   authors: null
   bdrc_id: null
+  collection_ids: null
+  colophon: "\u0F46\u0F7C\u0F66\u0F0B\u0F40\u0FB1\u0F72\u0F0B\u0F51\u0F56\u0FB1\u0F72\
+    \u0F44\u0F66\u0F0B\u0F66\u0F74\u0F0B\u0F56\u0F66\u0F9F\u0F7C\u0F51\u0F0B\u0F54\
+    \u0F0B\u0F66\u0FB3\u0F7C\u0F56\u0F0B\u0F51\u0F54\u0F7C\u0F53\u0F0B\u0F60\u0F55\
+    \u0F42\u0F66\u0F0B\u0F54\u0F0B\u0F40\u0FB3\u0F74\u0F0B\u0F66\u0F92\u0FB2\u0F74\
+    \u0F56\u0F0B\u0F40\u0FB1\u0F72\u0F66\u0F0B\u0F58\u0F5B\u0F51\u0F0B\u0F54\u0F0B\
+    \u0F62\u0FAB\u0F7C\u0F42\u0F66\u0F0B\u0F66\u0F7C\u0F0D \u0F0D\u0F62\u0F92\u0FB1\
+    \u0F0B\u0F42\u0F62\u0F0B\u0F42\u0FB1\u0F72\u0F0B\u0F58\u0F41\u0F53\u0F0B\u0F54\
+    \u0F7C\u0F0B\u0F40\u0FB2\u0F72\u0F65\u0F9E\u0F0B\u0F54\u0F4E\u0F9C\u0F72\u0F0B\
+    \u0F4F\u0F0B\u0F51\u0F44\u0F0B\u0F0D \u0F63\u0F7C\u0F0B\u0F59\u0F71\u0F0B\u0F56\
+    \u0F0B\u0F51\u0F42\u0F7A\u0F0B\u0F66\u0FB3\u0F7C\u0F44\u0F0B\u0F5A\u0F74\u0F63\
+    \u0F0B\u0F41\u0FB2\u0F72\u0F58\u0F66\u0F0B\u0F62\u0F92\u0FB1\u0F63\u0F0B\u0F56\
+    \u0F66\u0F0B\u0F56\u0F66\u0F92\u0FB1\u0F74\u0F62\u0F0B\u0F56\u0F60\u0F7C"
+  diplomatic_id: null
+  id: MW2KG5015_0799
   location_info:
     contentLocationEndLine: '3'
     contentLocationEndPage: '151'
@@ -149,6 +246,12 @@ instances:
     contentLocationLine: '3'
     contentLocationPage: '142'
     contentLocationVolume: '1'
-  diplomatic_id: null
-  alignmnet_ids: null
-  collection_ids: null
+  titles:
+  - "\u0F46\u0F7C\u0F66\u0F0B\u0F40\u0FB1\u0F72\u0F0B\u0F51\u0F56\u0FB1\u0F72\u0F44\
+    \u0F66\u0F0B\u0F66\u0F74\u0F0B\u0F56\u0F66\u0F9F\u0F7C\u0F51\u0F0B\u0F54\u0F0D"
+  - "\u0F51\u0FB7\u0F62\u0FA8\u0F0B\u0F51\u0FB7\u0F71\u0F0B\u0F4F\u0F74\u0F0B\u0F66\
+    \u0F9F\u0F7C\u0F0B\u0F4F\u0FB2\u0F0D"
+language: LangBo
+new_key: new value
+title: "\u0F46\u0F7C\u0F66\u0F0B\u0F40\u0FB1\u0F72\u0F0B\u0F51\u0F56\u0FB1\u0F72\u0F44\
+  \u0F66\u0F0B\u0F66\u0F74\u0F0B\u0F56\u0F66\u0F9F\u0F7C\u0F51\u0F0B\u0F54\u0F0D"
